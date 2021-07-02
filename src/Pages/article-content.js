@@ -48,7 +48,7 @@ const articles = [
             consequat quam. Vivamus accumsan dui in facilisis aliquet.`,
         ]
     },     {
-        name: 'my-thoughts-on-resumes',
+        name: 'my-thoughts-on-resume',
         title: 'My Thoughts on Resumes',
         content: [
             `Today is the day I talk about something which scares most people: resumes.
