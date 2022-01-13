@@ -11,8 +11,7 @@ function UpvotesSection({articleName, upvotes, setArticleInfo}) {
     return (
         <div>
             <button onClick={upvoteArticle}>Upvote</button>
-            <p>This article have {upvotes}</p>
-            
+            {/* <p> This article have {upvotes}</p> */} 
         </div>
     )
 }
